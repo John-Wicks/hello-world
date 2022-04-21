@@ -2,7 +2,7 @@
 
 I'll be using this document as a statement of intent.
 
-My intent being to sutdy various tools/programs/languages to get myself to 
+My intent being to study various tools/programs/languages to get myself to 
 a certain level of competency.
 
 From where I'd feel confident enough to apply for a junior DevOps postion at a 
@@ -32,7 +32,7 @@ A basic layout of said study plan as follows:
 The above would only constitute the first steps of what I believe will be
 a long and fruitful journey. I will update my progress as applicable.
 
-Lastly I would like to reference <a href="https://www.markdownguide.org/tools/wiki-js/">this</a> guide by Matt Cone, which helped me
+Lastly I would like to reference <a href="https://www.markdownguide.org/tools/wiki-js/" target="_blank">this</a> guide by Matt Cone, which helped me
 kill two birds with one stone and that is the use of proper markdown as 
 well as finding a good self hostable wiki app called wiki.js.
 
